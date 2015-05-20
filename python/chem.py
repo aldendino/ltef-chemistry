@@ -730,7 +730,7 @@ ATOM_NAMES = {
         "Ti" : "titanium",
         "V" : "vanadium",
         "Cr" : "chromium",
-        "Mg" : "manganese",
+        "Mn" : "manganese",
         "Fe" : "iron",
         "Co" : "cobalt",
         "Ni" : "nickel",
@@ -783,7 +783,7 @@ ATOM_NAMES = {
         # Omitting 89-118+
     }
 
-# THis is a hack
+# This is a hack
 LIST_TRANSLATION = {
         "C" : "Methyl",
     }
